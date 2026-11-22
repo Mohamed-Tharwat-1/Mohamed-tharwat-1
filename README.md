@@ -3,7 +3,12 @@
 <div align="center">
   <img src="assets/profile-banner.svg" alt="Mohamed Tharwat — AI Engineering" width="100%" />
 
-  <h2>AI Engineering Student | Aspiring AI & Robotics Engineer</h2>
+  <br/>
+
+  <img src="assets/profile-avatar.svg" alt="MT monogram" width="112" />
+
+  <h2>Mohamed Tharwat Mohamed Abdelkhalek</h2>
+  <h3>AI Engineering Student | Aspiring AI & Robotics Engineer</h3>
 
   <p>
     Exploring the intersection of Artificial Intelligence, software development,
@@ -12,6 +17,8 @@
 
   <p>
     <a href="https://github.com/Mohamed-Tharwat-1">GitHub Profile</a>
+    &nbsp;•&nbsp;
+    <a href="https://www.tinkercad.com/things/fb2fcggACnj-color-memory-challenge">Color Memory Challenge on Tinkercad</a>
   </p>
 </div>
 
@@ -51,16 +58,18 @@ I'm an engineering student focused on Artificial Intelligence, with a growing in
 
 ## Featured Projects
 
-### Pharmacy Management System
+### 1. Pharmacy Management System
 A pharmacy operations system covering medicine inventory, sales, purchases, suppliers, and dashboard workflows. The project direction includes a FastAPI backend, PostgreSQL database, and React frontend.
 
-### FastDelivery — Data Analytics
-A delivery analytics project focused on operational performance, delivery delays, delivery time, and customer ratings, with reporting through Power BI.
+### 2. FastDelivery — Data Analytics
+A delivery analytics project built around a generated delivery dataset. It explores delivery performance, delays, delivery time, and customer ratings, with reporting through Power BI.
 
-### Color Memory Challenge
-An interactive electronics game concept where players memorize and reproduce a sequence of illuminated colors using LEDs and buttons.
+### 3. Color Memory Challenge
+An electronics memory-game concept where players memorize and reproduce a sequence of illuminated colors using LEDs and buttons.
 
-> These are project summaries. Specific implementation status and feature availability may differ by project stage.
+🔗 [View the Color Memory Challenge on Tinkercad](https://www.tinkercad.com/things/fb2fcggACnj-color-memory-challenge)
+
+> These are project summaries. This profile does not claim that every listed project is complete or production-deployed.
 
 ## Current Learning Focus
 
