@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Mohamed Tharwat monogram</title>
+  <desc id="desc">A clean dark charcoal circular avatar with the initials MT and abstract teal and amber circuit accents.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#171d20"/>
+      <stop offset="1" stop-color="#2b3332"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#55d6b0"/>
+      <stop offset="1" stop-color="#f2b66d"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="256" fill="url(#bg)"/>
+  <circle cx="256" cy="256" r="216" fill="none" stroke="#65716c" stroke-width="3" opacity=".55"/>
+  <circle cx="256" cy="256" r="190" fill="none" stroke="url(#accent)" stroke-width="5" stroke-dasharray="240 950" transform="rotate(-90 256 256)"/>
+  <g fill="none" stroke="url(#accent)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" opacity=".9">
+    <path d="M86 172h62v42h35"/>
+    <path d="M426 340h-62v-42h-35"/>
+    <path d="M256 72v42"/>
+    <path d="M256 398v42"/>
+  </g>
+  <g fill="url(#accent)">
+    <circle cx="86" cy="172" r="8"/><circle cx="426" cy="340" r="8"/>
+    <circle cx="256" cy="72" r="8"/><circle cx="256" cy="440" r="8"/>
+  </g>
+  <text x="256" y="292" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="156" font-weight="700" letter-spacing="-12" fill="#f3f5f1">MT</text>
+  <path d="M168 332h176" stroke="url(#accent)" stroke-width="7" stroke-linecap="round"/>
+  <text x="256" y="372" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" letter-spacing="5" fill="#c4cec8">ENGINEERING</text>
+</svg>
