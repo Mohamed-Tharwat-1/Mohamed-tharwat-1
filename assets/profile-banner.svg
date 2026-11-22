@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Mohamed Tharwat — AI Engineering</title>
+  <desc id="desc">A dark professional banner with abstract circuit lines and the words AI Engineering, Machine Learning, and Robotics.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101827"/>
+      <stop offset="1" stop-color="#202b3d"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#56d6c9"/>
+      <stop offset="1" stop-color="#8aa7ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <g fill="none" stroke="url(#accent)" stroke-width="2" opacity=".45">
+    <path d="M760 0v70h90v55h130v-45h220"/>
+    <path d="M820 320v-75h110v-55h115v-55h155"/>
+    <path d="M1010 0v35h70v45h140"/>
+    <path d="M730 260h70v-50h90"/>
+    <circle cx="760" cy="70" r="5" fill="#56d6c9"/>
+    <circle cx="980" cy="80" r="5" fill="#8aa7ff"/>
+    <circle cx="1045" cy="190" r="5" fill="#56d6c9"/>
+    <circle cx="820" cy="245" r="5" fill="#8aa7ff"/>
+  </g>
+  <g opacity=".12" fill="#fff">
+    <circle cx="1050" cy="155" r="112"/>
+    <circle cx="1050" cy="155" r="82" fill="none" stroke="#fff" stroke-width="2"/>
+  </g>
+  <text x="76" y="116" fill="#f7fafc" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="700">MOHAMED THARWAT</text>
+  <rect x="78" y="143" width="82" height="4" rx="2" fill="url(#accent)"/>
+  <text x="78" y="190" fill="#dce6f2" font-family="Arial, Helvetica, sans-serif" font-size="25">AI Engineering Student</text>
+  <text x="78" y="231" fill="#aebdd0" font-family="Arial, Helvetica, sans-serif" font-size="18">ARTIFICIAL INTELLIGENCE  ·  MACHINE LEARNING  ·  ROBOTICS</text>
+  <text x="78" y="280" fill="#8fa2ba" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="3">LEARN  /  BUILD  /  EXPLORE</text>
+</svg>
