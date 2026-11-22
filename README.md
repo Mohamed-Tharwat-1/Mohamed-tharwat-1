@@ -81,6 +81,7 @@ An electronics memory-game concept where players memorize and reproduce a sequen
 ## Let's Connect
 
 - **GitHub:** [Mohamed-Tharwat-1](https://github.com/Mohamed-Tharwat-1)
+- **LinkedIn:** [Mohamed Tharwat](https://www.linkedin.com/in/mohamed-tharwat-902796395)
 
 ---
 
